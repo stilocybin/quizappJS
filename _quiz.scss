@@ -1,0 +1,17 @@
+#btnstart,
+#btnloesen {
+  border: none;
+  width: 10rem;
+  height: 3rem;
+  font-size: 2rem;
+  outline: none;
+  border-radius: 0.5rem;
+  margin-bottom: 4rem;
+  background-color: var(--prussian-blue);
+  color: var(--off-white);
+  cursor: pointer;
+}
+
+li {
+  list-style-type: decimal;
+}
